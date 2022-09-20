@@ -6,4 +6,3 @@ I am working with a Jupyter notebook and Python with Sympy and other modules to 
 
 Hope you enjoy.
 
-Fri Sep 2 - added a 2nd file.
